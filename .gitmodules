@@ -1,0 +1,3 @@
+[submodule "flask-api"]
+	path = flask-api
+	url = git@github.com:mikaelhadler/flask-api.git
